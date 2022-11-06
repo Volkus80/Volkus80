@@ -1,16 +1,16 @@
 ### Hi there 👋
+### My name is Vladimir and I'm a beginner frontend developer.
 
-<!--
-**Volkus80/Volkus80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E44D25?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-3262F5?style=flat&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-E3C419?style=flat&logo=JavaScript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0175C4?style=flat&logo=TypeScript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=00CFF2)
+![Git](https://img.shields.io/badge/-git-fff?style=flat&logo=Git&logoColor=E95F45)
 
-Here are some ideas to get you started:
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=social&logo=Telegram&logoColor=E95F45)](https://t.me/volkus80)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volkus80&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
