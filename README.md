@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Vladimir and I'm a beginner frontend developer.
+### My name is Vladimir and I'm a frontend developer.
 
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D25?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -7,6 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E3C419?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0175C4?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React&logoColor=00CFF2)
+![Redux](https://img.shields.io/badge/-ReduxTK-7047B2?style=for-the-badge&logo=Redux&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-git-fff?style=for-the-badge&logo=Git&logoColor=E95F45)
 
 
